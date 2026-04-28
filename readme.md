@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Aqsa Afzal , Aspiring AI/ML Engineer</h2>
+<h2 align="left">Hi 👋! I'm Aqsa Afzal, Aspiring AI/ML Engineer</h2>
 
 <br/>
 <br/>
@@ -8,30 +8,45 @@
 <br/>
 <br/>
 
-### <img src="https://media.giphy.com/media/cNzJf9OeF1V38K7H3O/giphy.gif" height="25"/> Tech I'm Learning & Working With
+### <img src="https://media.giphy.com/media/cNzJf9OeF1V38K7H3O/giphy.gif" height="25"/> Tech I'm Learning & Using
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
 </div>
 
 <br/>
 
 ### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" height="25"/> About Me
 
-- 🤖 Passionate about Artificial Intelligence & Machine Learning  
-- 📊 Learning Data Science, Deep Learning & Model Building  
-- 💡 Interested in AI-powered applications & real-world solutions  
-- 🚀 Currently working on ML projects & improving my skills  
-- 🌱 Always learning new technologies in AI  
+- 🤖 Aspiring AI/ML Engineer  
+- 💻 Strong foundation in **C++ & Assembly Language**  
+- 🔧 Interested in **Robotics & Embedded Systems (Raspberry Pi projects)**  
+- 📊 Currently learning **Python for AI & Machine Learning**  
+- 🚀 Building projects step-by-step to strengthen concepts  
+- 🌱 Exploring **Data Science & AI fundamentals**  
+
+<br/>
+
+### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" height="25"/> Projects I'm Working On
+
+- 🤖 **AI-based Smart Systems (Beginner Level)**
+- 🖥️ **Cybercafe Management System (OOP - C++)**
+- 🔌 **Raspberry Pi Robot Project**
+- ⚙️ **Assembly Language Programs (Loops, Arrays, Logic Building)**
+
+<br/>
+
+### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" height="25"/> Goals
+
+- 🎯 Master **Machine Learning & Deep Learning**
+- 🧠 Learn **Neural Networks & AI Models**
+- 📈 Build real-world **AI-based applications**
+- 💡 Improve problem-solving & coding skills  
 
 <br/>
 
@@ -40,8 +55,6 @@
 <p align="left">
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -68,7 +81,7 @@
 <br/>
 
 <div align="center">
-  <strong>🤖 Currently Building: Machine Learning Models & AI Projects</strong><br/>
-  <strong>📚 Learning: Deep Learning, NLP & Computer Vision</strong><br/>
-  <strong>🌱 Always Learning. Always Improving.</strong>
+  <strong>🤖 Currently Learning: Python for AI & Machine Learning</strong><br/>
+  <strong>🔧 Building: Robotics + AI Projects</strong><br/>
+  <strong>🌱 Step by Step to Becoming an AI Engineer</strong>
 </div>
