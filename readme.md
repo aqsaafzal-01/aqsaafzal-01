@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Aqsa Afzal</h2>
+<h2 align="left">Hi! I'm Aqsa Afzal</h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -20,31 +20,24 @@
 
 ### AI & ML Stack
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</div>
-
-<br/>
+<p align="center">
+  <span>
+    <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+    <a href="https://cplusplus.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+    <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/></a>
+    <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/></a>
+    <a href="https://keras.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40"/></a>
+    <a href="https://numpy.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40"/></a>
+    <a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40"/></a>
+    <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></a>
+  </span>
+</p>
 
 ### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" height="25"/> Let's Collaborate on Intelligence
 
 <p align="left">
   <a href="mailto:amrahaanwar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/amraha-anwar-45bb342b3/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@amrahaanwar"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/amrahaanwar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 <br/>
