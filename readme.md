@@ -57,7 +57,9 @@
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=amraha-anwar&label=Model%20Training%20Sessions&color=0e75b6&style=flat" alt="amraha-anwar" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=aqsaafzal&label=Profile%20Viewers&color=0e75b6&style=flat&base=295" alt="aqsaafzal" /> 
+</p>
 
 <br/>
 
